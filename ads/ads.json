@@ -1,0 +1,152 @@
+{
+  "campaign": "R1_OwnerAngles_Leads",
+  "urlParameters": "utm_source=facebook&utm_medium=paid_social&utm_campaign={{campaign.name}}&utm_term={{adset.name}}&utm_content={{ad.name}}",
+  "cells": [
+    {
+      "id": "OWN-POWER",
+      "adset": "R1_OWN-POWER",
+      "audience": "Business owners and founders",
+      "angle": "Resistance: fear, resentment and anger burn off the owner's drive (P = V^2 / R)",
+      "hypothesis": "The most differentiated angle. Expect the best lead quality and booking rate, possibly a higher cost per lead than CALM.",
+      "url": "https://afresh.io/full-power/",
+      "leadMagnet": "Full Power check (14-question assessment, gated result)"
+    },
+    {
+      "id": "OWN-CALM",
+      "adset": "R1_OWN-CALM",
+      "audience": "Business owners and founders",
+      "angle": "Calm under pressure: a 60-second 4-7-8 reset before hard calls, then a 5-day Calm Operator email series",
+      "hypothesis": "Cheapest clicks and leads of the owner cells, weakest booking rate. Tests whether stress content can feed coaching or only attracts free-content seekers.",
+      "url": "https://afresh.io/reset/",
+      "leadMagnet": "Guided 4-7-8 reset (ungated) + 5-day Calm Operator series"
+    },
+    {
+      "id": "OWN-HABIT",
+      "adset": "R1_OWN-HABIT",
+      "audience": "Business owners and founders",
+      "angle": "Behavior design: stop running the business on willpower (BJ Fogg's Tiny Habits)",
+      "hypothesis": "Practical, low-threat entry point. Tests whether a method-led promise beats an emotion-led one.",
+      "url": "https://afresh.io/tiny-habits/",
+      "leadMagnet": "Tiny Habits recipe builder (ungated) + 5-day starter"
+    },
+    {
+      "id": "CAREER",
+      "adset": "R1_CAREER",
+      "audience": "Experienced professionals considering a move (includes engineers and product managers)",
+      "angle": "A career move is a campaign, not a job search",
+      "hypothesis": "The challenger cohort. Likely the highest intent and lead volume; tests whether it books more calls per dollar than owners.",
+      "url": "https://afresh.io/career-move/",
+      "leadMagnet": "Career Campaign Scorecard (12-question assessment, gated result)"
+    }
+  ],
+  "ads": [
+    {
+      "id": "R1_OWN-POWER_P1-circuit",
+      "cell": "OWN-POWER",
+      "creative": "circuit",
+      "primaryText": "You're not short on drive. You're losing power to resistance.\n\nIn a circuit, the bulb only gets the power that makes it past the resistors. The rest turns into heat.\n\nIn a business, the resistors are fear, resentment and anger. The call that keeps slipping to next month. The partner nobody says anything to. The email that should never have been sent.\n\nThe free Full Power check takes 3 minutes. It shows how much of your energy reaches the business, which resistor costs the most, and one tiny step to clear it.",
+      "headline": "Take the 3-minute Full Power check",
+      "description": "Free. Instant result.",
+      "cta": "LEARN_MORE"
+    },
+    {
+      "id": "R1_OWN-POWER_P2-equation",
+      "cell": "OWN-POWER",
+      "creative": "equation",
+      "primaryText": "P = V² ÷ R\n\nPower equals voltage squared, divided by resistance. When results stall, most owners push more voltage: more hours, more willpower.\n\nThe faster fix is less resistance. In a business that usually means fear, resentment and anger, and from the inside they rarely look like that. They look like being busy.\n\nFind your biggest resistor in 3 minutes. Free.",
+      "headline": "Where is your power going?",
+      "description": "3 minutes. Free.",
+      "cta": "LEARN_MORE"
+    },
+    {
+      "id": "R1_OWN-POWER_P3-bulb",
+      "cell": "OWN-POWER",
+      "creative": "bulb",
+      "primaryText": "Sixty hours in. Not sixty hours of results out.\n\nThat gap has a name: resistance. The decision that gets put off, the resentment that gets carried, the reaction that gets regretted. Each one burns energy before it reaches the business.\n\nDoug Stevenson spent 23 years as a founder and CEO. His free Full Power check finds the leak in 3 minutes, without blame.",
+      "headline": "Find the leak in 3 minutes",
+      "description": "Free check for owners",
+      "cta": "LEARN_MORE"
+    },
+    {
+      "id": "R1_OWN-CALM_C1-478",
+      "cell": "OWN-CALM",
+      "creative": "breath",
+      "primaryText": "Inhale 4. Hold 7. Exhale 8.\n\nA one-minute reset for the moment before a hard call: the price conversation, the tough feedback, the email that is about to go out.\n\nNo app. Works anywhere. Try it free with a guide, right now.",
+      "headline": "The 60-second reset before a hard call",
+      "description": "Try it free",
+      "cta": "LEARN_MORE"
+    },
+    {
+      "id": "R1_OWN-CALM_C2-pregame",
+      "cell": "OWN-CALM",
+      "creative": "pregame",
+      "primaryText": "Athletes have a pre-game routine. Pilots have a pre-flight checklist. Most owners walk into their hardest calls cold.\n\nThis routine takes 60 seconds: a 4-7-8 breath, three rounds. Use it before any conversation that matters.\n\nThen, if it helps, get the free 5-day Calm Operator reset: one technique a day, built for the pressure of running a business.",
+      "headline": "A pre-game routine for hard calls",
+      "description": "60 seconds. Free.",
+      "cta": "LEARN_MORE"
+    },
+    {
+      "id": "R1_OWN-CALM_C3-mantra",
+      "cell": "OWN-CALM",
+      "creative": "mantra",
+      "primaryText": "Doug Stevenson has meditated for nearly 40 years, including 23 years as a founder and CEO.\n\nThe Calm Operator reset is what he teaches owners: five short emails, one technique a day. The 60-second breath. Choosing a mantra. The worry dump. The shutdown ritual. Protecting sleep like it is part of the job.\n\nFree, and built for people who run businesses.",
+      "headline": "5 days to a calmer operator",
+      "description": "Free email series",
+      "cta": "SIGN_UP"
+    },
+    {
+      "id": "R1_OWN-HABIT_H1-recipe",
+      "cell": "OWN-HABIT",
+      "creative": "recipe",
+      "primaryText": "\"After I pour my first coffee, I will write down the one call I'm avoiding.\"\n\nThat's a Tiny Habits recipe: an anchor that already happens every day, a behavior so small it works on the worst day, and a quick celebration.\n\nBuild a first owner habit in 60 seconds, free. Based on BJ Fogg's Tiny Habits method, from a coach he certified.",
+      "headline": "Build your first owner habit",
+      "description": "60 seconds. Free.",
+      "cta": "LEARN_MORE"
+    },
+    {
+      "id": "R1_OWN-HABIT_H2-willpower",
+      "cell": "OWN-HABIT",
+      "creative": "willpower",
+      "primaryText": "Willpower is gone by 3pm. Habits aren't.\n\nBJ Fogg's research at Stanford says a behavior happens when motivation, ability and a prompt meet. Most owners keep trying to fix motivation. It's the least reliable of the three.\n\nMake it tiny. Anchor it. Celebrate it. Build a first recipe in 60 seconds.",
+      "headline": "Stop running on willpower",
+      "description": "Free habit builder",
+      "cta": "LEARN_MORE"
+    },
+    {
+      "id": "R1_OWN-HABIT_H3-bmap",
+      "cell": "OWN-HABIT",
+      "creative": "bmap",
+      "primaryText": "B = MAP\n\nA behavior happens when Motivation, Ability and a Prompt show up at the same moment. That's BJ Fogg's model, and it explains why most New Year plans are gone by February.\n\nOwners don't need more motivation. They need smaller behaviors with better prompts. Free 60-second habit builder plus a 5-day starter.",
+      "headline": "The formula behind habits that stick",
+      "description": "Free for owners",
+      "cta": "LEARN_MORE"
+    },
+    {
+      "id": "R1_CAREER_K1-campaign",
+      "cell": "CAREER",
+      "creative": "campaign",
+      "primaryText": "A career move isn't a job search. It's a campaign.\n\nSearches stall on one of five things: a blurry target, a story that undersells, an untapped network, no pipeline, or running out of energy.\n\nThe free Career Campaign Scorecard shows which one in 3 minutes, with three things to do about it this week.",
+      "headline": "Get your Career Campaign score",
+      "description": "3 minutes. Free.",
+      "cta": "LEARN_MORE"
+    },
+    {
+      "id": "R1_CAREER_K2-title",
+      "cell": "CAREER",
+      "creative": "title",
+      "primaryText": "The title on a resume is rarely the level someone actually operates at.\n\nExperienced people undersell themselves in exactly the place that matters: the one-minute story of where they've been and where they're going next.\n\nThe free 3-minute Career Campaign Scorecard shows whether target, story, network, pipeline or energy is holding a move back.",
+      "headline": "Find what's holding your move back",
+      "description": "Free scorecard",
+      "cta": "LEARN_MORE"
+    },
+    {
+      "id": "R1_CAREER_K3-conversations",
+      "cell": "CAREER",
+      "creative": "conversations",
+      "primaryText": "Conversations create opportunities. Applications only capture them.\n\nA search that runs mostly on job boards competes where it's hardest. The strongest moves come through people who already know the work.\n\nThe free Career Campaign Scorecard shows where a next move is stuck. Built by Doug Stevenson, founder and CEO for 23 years, now a career transition coach.",
+      "headline": "Where is your next move stuck?",
+      "description": "3-minute scorecard",
+      "cta": "LEARN_MORE"
+    }
+  ]
+}
