@@ -70,6 +70,7 @@ many of its behaviors fall under each genius gives a rough profile.
 | Amazon | 16 Leadership Principles | Tenacity, Discernment | none; all six are covered |
 | Netflix | Valued behaviors (culture memo) | Galvanizing, Enablement | Tenacity |
 | Google | Project Oxygen manager behaviors | Enablement | Wonder, Invention |
+| Spotify | Five company values | Invention, Enablement | Discernment, Tenacity |
 
 Netflix's valued behaviors map as: Curiosity (Wonder), Creativity
 (Invention), Judgment (Discernment), Courage and Candor (Galvanizing),
@@ -81,7 +82,12 @@ coach, empowers the team, inclusive environment, supports career
 development, and collaborates across the company (Enablement); productive
 and results-oriented (Tenacity).
 
-The Netflix and Google lists were written from memory and need checking
+Spotify's values map as: Innovative (Invention); Playful (Invention, with
+Wonder as a secondary); Passionate (Galvanizing, with Tenacity as a
+secondary); Collaborative and Sincere (Enablement). Five broad values give
+a coarser profile than a longer behavior list does.
+
+The Netflix, Google, and Spotify lists were written from memory and need checking
 against the current published versions.
 
 ## Three kinds of fit
