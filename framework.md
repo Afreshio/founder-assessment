@@ -71,6 +71,7 @@ many of its behaviors fall under each genius gives a rough profile.
 | Netflix | Valued behaviors (culture memo) | Galvanizing, Enablement | Tenacity |
 | Google | Project Oxygen manager behaviors | Enablement | Wonder, Invention |
 | Spotify | Five company values | Invention, Enablement | Discernment, Tenacity |
+| Apple | No official list; Tim Cook's 2009 statement of beliefs and a 2020 HBR article | Discernment, Invention | Wonder, Galvanizing |
 
 Netflix's valued behaviors map as: Curiosity (Wonder), Creativity
 (Invention), Judgment (Discernment), Courage and Candor (Galvanizing),
@@ -87,7 +88,17 @@ Wonder as a secondary); Passionate (Galvanizing, with Tenacity as a
 secondary); Collaborative and Sincere (Enablement). Five broad values give
 a coarser profile than a longer behavior list does.
 
-The Netflix, Google, and Spotify lists were written from memory and need checking
+Apple publishes no leadership behavior list, so its profile is built from
+two secondary sources: Tim Cook's 2009 statement of what Apple believes,
+and the 2020 Harvard Business Review article "How Apple Is Organized for
+Innovation". They map as: constant innovation and "the simple, not the
+complex" (Invention); saying no to thousands of projects, admitting when
+wrong, deep expertise, and immersion in the details (Discernment); courage
+to change and willingness to debate (Galvanizing); deep collaboration
+across groups (Enablement); accepting nothing less than excellence
+(Tenacity). This is the least certain profile of the five.
+
+The Netflix, Google, Spotify, and Apple lists were written from memory and need checking
 against the current published versions.
 
 ## Three kinds of fit
